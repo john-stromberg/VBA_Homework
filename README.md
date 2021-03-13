@@ -6,6 +6,4 @@
 
 * Displays the ticker symbol to coincide with the total stock volume.
 
-![results] (Images/2014 Stock Data.png)
-![results] (Images/2015 Stock Data.png)
-![results] (Images/2016 Stock Data.png)
+![2014 Stock Data](Images/2014 Stock Data.png)
